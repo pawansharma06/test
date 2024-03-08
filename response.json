@@ -1,0 +1,4 @@
+{
+    "status": true,
+    "data": "<p>This is the content to display when status is true.</p>"
+}
